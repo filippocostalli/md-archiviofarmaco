@@ -1,0 +1,5 @@
+{:arcfar-db {:dbtype "postgres"
+             :host "localhost"
+             :dbname "md_archiviofarmaco"
+             :username "postgres"
+             :password "xxxxxxx"}}
